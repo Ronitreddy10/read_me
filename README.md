@@ -1,51 +1,111 @@
-# 👋 Hi, I'm Ronit Reddy
+# Hey there! 👋 I'm Ronit Reddy
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Engineer;SDE+Intern+%40+Tech+Mahindra;Technical+Intern+%40+BEL" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About Me
-I'm a Full Stack Developer & AI enthusiast currently driving impact as an SDE Intern at Tech Mahindra and a Technical Intern at Bharat Electronics Limited (BEL)[cite: 2]. I love rapid prototyping, building AI-powered tools, and crafting clean UI/UX designs.
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ronitreddy10/count.svg" alt="Profile Views" />
+</p>
 
-* 🔭 **Currently working on:** Offline RAG pipelines, Biomedical Signal processing at AIRC, and enterprise privacy compliance systems[cite: 2].
-* 🏆 **Recent Achievement:** Top 5 Finalist in the NextGen AI 2026 National Hackathon (in collaboration with Google Gemini)[cite: 2].
-* 📝 **Publications:** Co-authoring a book chapter on AI in Medical Robotics for Elsevier (Expected Aug 2026)[cite: 2].
-* ⚡ **Fun fact:** When I'm not vibe coding with AI agents, you can catch me playing Rainbow Six Siege, cheering for the Golden State Warriors, or hunting down the best spicy chicken burgers.
+---
 
-## 🚀 Featured Projects
-* **NeuroNarrator:** An AI co-pilot for the visually impaired using Flutter, FastAPI, and Groq for sub-2s real-time scene narration[cite: 2]. 
-* **LinguaSense:** A multilingual detection system utilizing hybrid RNN-Transformers and ONNX quantization to achieve 110ms latency[cite: 2].
-* **DocMind AI:** An offline Java desktop app utilizing an embedded Ollama engine and a custom Langchain RAG pipeline[cite: 2].
+## 🚀 About Me
 
-## 🛠️ Tech Stack
+* 💻 **B.Tech CSE student** at Woxsen University (Expected 2027) with a 3.62 GPA from my exchange program at UCSI Malaysia.
+* 🧠 **Building** AI-powered automation systems, local RAG pipelines, and offline enterprise applications.
+* 🏆 **Recent Achievement:** Top 5 Finalist in the NextGen AI 2026 National Hackathon.
+* 🔬 **Currently working on:** Biomedical Signal processing at the AI Research Centre (AIRC) & privacy compliance systems at Tech Mahindra.
+* 📝 **Publications:** Co-authoring a book chapter on AI in Medical Robotics for Elsevier (Expected Aug 2026).
+* ⚡ **Fun fact:** I love vibe coding with AI agents, grinding Rainbow Six Siege, and hunting down the best spicy chicken burgers.
 
-### Languages & Backend
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend
+### 🤖 AI / ML / NLP
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-F58025?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Frontend & Backend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI, ML & Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitreddy10&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ronitreddy10&theme=tokyonight&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitreddy10&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+## 🔥 Featured Projects
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ronitreddy10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 NeuroNarrator AI Co-Pilot</h3>
+      <p><strong>Flutter • FastAPI • Groq • Python • ChromaDB</strong></p>
+      <p>Hybrid AI perception system unifying vision and memory support. Sub-2s real-time scene narration and 100% offline local edge AI for biometric face recognition.</p>
+      <br>
+      <a href="https://github.com/Ronitreddy10/NeuroNarrator">🐙 <b>View on GitHub</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗣️ LinguaSense Multilingual Detection</h3>
+      <p><strong>RNN • Transformers • Hugging Face • ONNX</strong></p>
+      <p>Edge-to-cloud speech recognition system for seamless language identification. Maintained 9.20% WER in heavy noise environments with 110ms latency via 8-bit quantization.</p>
+      <br>
+      <a href="https://github.com/Ronitreddy10/LinguaSense">🐙 <b>View on GitHub</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 DocMind AI (Local RAG)</h3>
+      <p><strong>Java • LangChain • Ollama • JSON</strong></p>
+      <p>Offline local RAG document analyzer utilizing an embedded Ollama engine (Phi-4 Mini) and a custom pipeline, deployed as a zero-setup executable via jpackage.</p>
+      <br>
+      <a href="https://github.com/Ronitreddy10">🐙 <b>View on GitHub</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Project Drishti (UIDAI)</h3>
+      <p><strong>React.js • Machine Learning • Dashboard</strong></p>
+      <p>Automated fraud detection dashboard proposed as a team lead during the UIDAI Aadhaar Hackathon 2026. Built to evaluate and track systemic anomalies.</p>
+      <br>
+      <a href="https://github.com/Ronitreddy10">🐙 <b>View on GitHub</b></a>
+    </td>
+  </tr>
+</table>
 
-## 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/Ronitreddy10/count.svg)
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronitreddy10&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronitreddy10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitreddy10&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
