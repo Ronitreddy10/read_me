@@ -115,3 +115,25 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Ronitreddy10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ronitreddy10's Trophies" />
   </a>
 </div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+  <a href="mailto:ronitvoila12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/ronit-reddy-gaddam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Ronitreddy10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+---
+
+## ✨ Quote I Live By
+
+> *"Don't just build things that work. Build things that matter."* 🔥
+
+<br>
+
+<p align="center">
+  💼 <b>Open to AI/ML & Full Stack Internships | 🚀 Startup Collabs | 🤝 Hackathons</b>
+</p>
