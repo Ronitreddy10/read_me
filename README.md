@@ -47,6 +47,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -64,12 +65,23 @@
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
+      <h3>🍿 Tsuna Watch Party</h3>
+      <p><strong>Next.js • React • WebRTC • Go • WebSockets</strong></p>
+      <p>A zero-install peer-to-peer watch party platform. Features frame-locked local file playback, WebRTC screen sharing, and real-time live chat with emoji reactions.</p>
+      <br>
+      <a href="https://github.com/Ronitreddy10/Tsuna-Real-time-Watch-Party-App">🐙 <b>View on GitHub</b></a>
+      &nbsp;|&nbsp;
+      <a href="https://tsuna-watch-party.vercel.app">🌐 <b>Live Demo</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🧠 NeuroNarrator AI Co-Pilot</h3>
       <p><strong>Flutter • FastAPI • Groq • Python • ChromaDB</strong></p>
       <p>Hybrid AI perception system unifying vision and memory support. Sub-2s real-time scene narration and 100% offline local edge AI for biometric face recognition.</p>
       <br>
       <a href="https://github.com/Ronitreddy10/NeuroNarrator">🐙 <b>View on GitHub</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🗣️ LinguaSense Multilingual Detection</h3>
       <p><strong>RNN • Transformers • Hugging Face • ONNX</strong></p>
@@ -77,8 +89,6 @@
       <br>
       <a href="https://github.com/Ronitreddy10/LinguaSense">🐙 <b>View on GitHub</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📄 DocMind AI (Local RAG)</h3>
       <p><strong>Java • LangChain • Ollama • JSON</strong></p>
@@ -86,12 +96,16 @@
       <br>
       <a href="https://github.com/Ronitreddy10">🐙 <b>View on GitHub</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Project Drishti (UIDAI)</h3>
       <p><strong>React.js • Machine Learning • Dashboard</strong></p>
       <p>Automated fraud detection dashboard proposed as a team lead during the UIDAI Aadhaar Hackathon 2026. Built to evaluate and track systemic anomalies.</p>
       <br>
       <a href="https://github.com/Ronitreddy10">🐙 <b>View on GitHub</b></a>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
